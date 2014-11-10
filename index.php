@@ -91,11 +91,7 @@ bcdfghjklmnpqrstvwxyz</textarea>
 		</div>
 		<div class="push"></div>
 	</div>
-	<footer class="site-footer">
-		<a href="http://eightarms.co.uk" target="_blank">
-			<img src="http://hosted.eightarms.co.uk/assets/a_site_by_eightarms_light.svg" alt="A site by Eight Arms">
-		</a>
-	</footer>
+
 	<script src="//cdnjs.cloudflare.com/ajax/libs/underscore.js/1.7.0/underscore-min.js"></script>
 	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 	<script type="text/javascript" src="js/min/plugins.js"></script>
